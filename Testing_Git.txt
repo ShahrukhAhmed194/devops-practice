@@ -1,2 +1,2 @@
 Testing Git Commands
-Added text for branch feature-1
+Added text for branch feature-2
